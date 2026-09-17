@@ -1,5 +1,5 @@
 name: Ola mundo
-on: push
+on: workflow_dispatch
 jobs:
   minha-tarefa:
     runs-on: ubuntu-latest
