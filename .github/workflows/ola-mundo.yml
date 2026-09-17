@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: Dizer ola
         run: echo "Vitor Hugo Gilhi da Silva"
+      - name: Dizer ola
+        run: date
